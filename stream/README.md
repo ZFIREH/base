@@ -1,8 +1,4 @@
-
-
-[TOC]
-
-
+# Java8 流 学会用流
 
 ## 什么是流
 
@@ -318,3 +314,10 @@ public class StreamTestBoot {
 | collect   | 终端 | R           | Collector<T,A,R>       |                |
 | reduce    | 终端 | Optional<T> | BinaryOperator<T>      | (T,T) -> T     |
 | count     | 终端 | long        |                        |                |
+
+
+
+## 引用
+
+引用修改了 [蓝汝丶琪](https://www.jianshu.com/u/4a02af32281e) 的文章 文章地址：[Java8:流 学会用流](<https://www.jianshu.com/p/c733e1a2cb9b>)
+
